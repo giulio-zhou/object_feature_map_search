@@ -1,0 +1,8 @@
+[submodule "viz_conv_layers"]
+	path = viz_conv_layers
+	url = https://github.com/giulio-zhou/viz_conv_layers.git
+	branch = master
+[submodule "networks_exp_utils"]
+	path = networks_exp_utils
+	url = https://github.com/giulio-zhou/networks_exp_utils.git
+	branch = master
